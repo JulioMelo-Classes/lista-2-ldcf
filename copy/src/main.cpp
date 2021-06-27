@@ -7,7 +7,7 @@
 #include "copy.h"
 
 using namespace graal;
-
+// teste
 #define which_lib graal
 //#define which_lib std // descomente para testar a mesma função usando a biblioteca padrão.
 
